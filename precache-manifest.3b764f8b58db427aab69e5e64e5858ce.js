@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1d216313e440831f4a7d5b473f4e55df",
+    "revision": "7389055901a7e0ca38a9a25e10d61dff",
     "url": "/vk-apps-helloworld/index.html"
   },
   {
