@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/vk-apps-helloworld/static/css/main.981f7211.chunk.css",
-    "main.js": "/vk-apps-helloworld/static/js/main.fdc03732.chunk.js",
-    "main.js.map": "/vk-apps-helloworld/static/js/main.fdc03732.chunk.js.map",
+    "main.js": "/vk-apps-helloworld/static/js/main.05dae34e.chunk.js",
+    "main.js.map": "/vk-apps-helloworld/static/js/main.05dae34e.chunk.js.map",
     "runtime-main.js": "/vk-apps-helloworld/static/js/runtime-main.5b947f57.js",
     "runtime-main.js.map": "/vk-apps-helloworld/static/js/runtime-main.5b947f57.js.map",
     "static/css/2.86df01db.chunk.css": "/vk-apps-helloworld/static/css/2.86df01db.chunk.css",
     "static/js/2.a292c3fa.chunk.js": "/vk-apps-helloworld/static/js/2.a292c3fa.chunk.js",
     "static/js/2.a292c3fa.chunk.js.map": "/vk-apps-helloworld/static/js/2.a292c3fa.chunk.js.map",
     "index.html": "/vk-apps-helloworld/index.html",
-    "precache-manifest.60d57e490319ae7d141838657528b7e9.js": "/vk-apps-helloworld/precache-manifest.60d57e490319ae7d141838657528b7e9.js",
+    "precache-manifest.bfcc796977f4cce78ff5bd60910b4533.js": "/vk-apps-helloworld/precache-manifest.bfcc796977f4cce78ff5bd60910b4533.js",
     "service-worker.js": "/vk-apps-helloworld/service-worker.js",
     "static/css/2.86df01db.chunk.css.map": "/vk-apps-helloworld/static/css/2.86df01db.chunk.css.map",
     "static/css/main.981f7211.chunk.css.map": "/vk-apps-helloworld/static/css/main.981f7211.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.86df01db.chunk.css",
     "static/js/2.a292c3fa.chunk.js",
     "static/css/main.981f7211.chunk.css",
-    "static/js/main.fdc03732.chunk.js"
+    "static/js/main.05dae34e.chunk.js"
   ]
 }
