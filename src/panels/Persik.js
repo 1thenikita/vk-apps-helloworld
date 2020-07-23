@@ -22,6 +22,13 @@ const Persik = props => (
 			Персик
 		</PanelHeader>
 		<img className="Persik" src={persik} alt="Персик это кот"/>
+			<Group title="Navigation Example">
+			<Div>
+				<Button size="xl" level="2" onClick={go} data-to="persik-open-eyes">
+					Покажи мне персика, который выспался, пожалуйста
+				</Button>
+			</Div>
+		</Group>
 	</Panel>
 );
 
