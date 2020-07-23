@@ -7,6 +7,8 @@ import PanelHeaderButton from '@vkontakte/vkui/dist/components/PanelHeaderButton
 import Icon28ChevronBack from '@vkontakte/icons/dist/28/chevron_back';
 import Icon24Back from '@vkontakte/icons/dist/24/back';
 import Button from '@vkontakte/vkui/dist/components/Button/Button';
+import Div from '@vkontakte/vkui/dist/components/Div/Div';
+import Group from '@vkontakte/vkui/dist/components/Group/Group';
 
 import persik from '../img/persik_open_eyes.png';
 import './Persik.css';
