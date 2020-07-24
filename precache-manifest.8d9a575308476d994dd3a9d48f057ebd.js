@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1db3ef8f21e8a2b238a3eba149c633fc",
+    "revision": "be06c3fe88c1cd03bce25908af5fa75d",
     "url": "/vk-apps-helloworld/index.html"
   },
   {
-    "revision": "a65d5c5de61c404cd1c9",
+    "revision": "43e5c761433ab30720c6",
     "url": "/vk-apps-helloworld/static/css/2.86df01db.chunk.css"
   },
   {
-    "revision": "0124407d170cc55fc0b9",
+    "revision": "e55ebce026d0d22f24cd",
     "url": "/vk-apps-helloworld/static/css/main.981f7211.chunk.css"
   },
   {
-    "revision": "a65d5c5de61c404cd1c9",
-    "url": "/vk-apps-helloworld/static/js/2.a292c3fa.chunk.js"
+    "revision": "43e5c761433ab30720c6",
+    "url": "/vk-apps-helloworld/static/js/2.3ca2d984.chunk.js"
   },
   {
     "revision": "21ced859ea2b2d6b856d461ad6c2afed",
-    "url": "/vk-apps-helloworld/static/js/2.a292c3fa.chunk.js.LICENSE.txt"
+    "url": "/vk-apps-helloworld/static/js/2.3ca2d984.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0124407d170cc55fc0b9",
-    "url": "/vk-apps-helloworld/static/js/main.e90ba007.chunk.js"
+    "revision": "e55ebce026d0d22f24cd",
+    "url": "/vk-apps-helloworld/static/js/main.af15a2f4.chunk.js"
   },
   {
     "revision": "58de19f4cfd7ab7cd646",
