@@ -26,7 +26,7 @@ const Persik = ({id, go}) => (
 
 			<Group title="Navigation Example">
 				<Div>
-					<Button size="xl" level="2" onClick={go} data-to="persik-open-eyes">
+					<Button size="xl" level="2" onClick={go} data-to="persik_open_eyes">
 						Покажи мне персика, который выспался, пожалуйста
 					</Button>
 				</Div>
