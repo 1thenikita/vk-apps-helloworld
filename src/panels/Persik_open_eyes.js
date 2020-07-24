@@ -15,23 +15,22 @@ import './Persik.css';
 
 const osName = platform();
 
-const Persik = props => (
-	<Panel id={props.id}>
+const Persik = ({id, go}) => (
+	<Panel id={id}>
 		<PanelHeader
-			left={<PanelHeaderButton onClick={props.go} data-to="home">
+			left={<PanelHeaderButton onClick={go} data-to="home">
 				{osName === IOS ? <Icon28ChevronBack/> : <Icon24Back/>}
-			</PanelHeaderButton>}
-		>
-			Персик
-		</PanelHeader>
-		<img className="Persik" src={persik} alt="Персик это кот"/>
+			</PanelHeaderButton>}>Персик</PanelHeader>
+
+			<img className="Persik" src={persik} alt="Персик это кот"/>
+
 			<Group title="Navigation Example">
-			<Div>
-				<Button size="xl" level="2" onClick={go} data-to="persik">
-					Покажи мне персика, который спит, пожалуйста
-				</Button>
-			</Div>
-		</Group>
+				<Div>
+					<Button size="xl" level="2" onClick={go} data-to="persik">
+						Покажи мне персика, который спит, пожалуйста
+					</Button>
+				</Div>
+			</Group>
 	</Panel>
 );
 
