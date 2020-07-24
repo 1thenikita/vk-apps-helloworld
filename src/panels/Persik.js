@@ -21,14 +21,16 @@ const Persik = ({id, go}) => (
 			left={<PanelHeaderButton onClick={go} data-to="home">
 				{osName === IOS ? <Icon28ChevronBack/> : <Icon24Back/>}
 			</PanelHeaderButton>}>Персик</PanelHeader>
-		<img className="Persik" src={persik} alt="Персик это кот"/>
+
+			<img className="Persik" src={persik} alt="Персик это кот"/>
+
 			<Group title="Navigation Example">
-			<Div>
-				<Button size="xl" level="2" onClick={go} data-to="persik-open-eyes">
-					Покажи мне персика, который выспался, пожалуйста
-				</Button>
-			</Div>
-		</Group>
+				<Div>
+					<Button size="xl" level="2" onClick={go} data-to="persik-open-eyes">
+						Покажи мне персика, который выспался, пожалуйста
+					</Button>
+				</Div>
+			</Group>
 	</Panel>
 );
 
